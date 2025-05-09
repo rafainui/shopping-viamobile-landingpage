@@ -25,13 +25,13 @@ O site é totalmente responsivo, adaptando-se a diferentes tamanhos de tela, esp
 
 Durante o desenvolvimento deste projeto, aprendi a:
 
-    Estruturar uma landing page com HTML semântico
-    Estilizar com CSS utilizando boas práticas
-    Aplicar flexbox para organização de layout
-    Criar um design responsivo com media queries
-    Trabalhar com Google Fonts e personalização visual
-    Separar o código em arquivos organizados
-    Melhorar minha leitura e escrita de código limpo
+- Estruturar uma landing page com HTML semântico
+- Estilizar com CSS utilizando boas práticas
+- Aplicar flexbox para organização de layout
+- Criar um design responsivo com media queries
+- Trabalhar com Google Fonts e personalização visual
+- Separar o código em arquivos organizados
+- Melhorar minha leitura e escrita de código limpo
 
 ## 📷 Preview
 
