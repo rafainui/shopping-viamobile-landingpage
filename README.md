@@ -15,11 +15,11 @@ O site é totalmente responsivo, adaptando-se a diferentes tamanhos de tela, esp
 
 ## 🎯 Funcionalidades
 
-Layout moderno com imagem ilustrativa
-Navegação fictícia com links de menu
-Design elegante, focado em usabilidade
-Botão de chamada para ação com estilo e interatividade
-Adaptação de conteúdo para telas menores
+- Layout moderno com imagem ilustrativa
+- Navegação fictícia com links de menu
+- Design elegante, focado em usabilidade
+- Botão de chamada para ação com estilo e interatividade
+- Adaptação de conteúdo para telas menores
 
 ## 💡 Aprendizados
 
